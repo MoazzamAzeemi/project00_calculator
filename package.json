@@ -17,5 +17,8 @@
     "nodemon": "^2.0.20",
     "rimraf": "^3.0.2",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.3"
   }
 }
